@@ -1,5 +1,4 @@
-# retina-struc-func-framework
-Retinal Structure-Function Assessment Framework
+# Retinal Structure-Function Assessment Framework
 
 By:  
 Sight Enhancement Laboratory (SELAB)  
