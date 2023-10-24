@@ -1,7 +1,7 @@
 # retina-struc-func-framework
 Retinal Structure-Function Assessment Framework
 
-By:
+By:  
 Sight Enhancement Laboratory (SELAB)  
 Herbert Wertheim School of Optometry & Vision Science  
 University of California, Berkeley, USA.
