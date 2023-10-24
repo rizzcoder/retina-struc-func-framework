@@ -25,7 +25,13 @@ s.chung@berkeley.edu
 - User-editable Excel sheet: MAIA Test Point ID, MAIA Test Point Threshold (dB), Closest B-scan, Location of the MAIA Test Point ID from the start of the closest B-scan (pixels) and thickness of 10 retinal layers (μm)
 
 ## Installation
-This framework requires the following software:
+
+The framework requires the following software:
+
+- [MATLAB R2022b] - Programming & Numeric Computing platform
+- [Fiji] - Open-source image processing package
+- [OCT Explorer 3.8.0] - Open-source software for OCT image segmentation.
+
 
 ## License
 MIT License
@@ -48,4 +54,11 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.   
+
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
+
+   [MATLAB R2022b]: <https://www.mathworks.com/products/matlab.html>
+   [Fiji]: <https://imagej.net/software/fiji/>
+   [OCT Explorer 3.8.0]: <https://iibi.uiowa.edu/oct-reference>
