@@ -6,9 +6,10 @@ Rijul S. Soans, PhD (rijul.soans@berkeley.edu)
 Benajmin E. Smith, PhD (benjamin.smith@berkeley.edu)  
 Susana T. L. Chung, OD, PhD (s.chung@berkeley.edu)  
 
-Sight Enhancement Laboratory (SELAB)  
+Sight Enhancement Laboratory ([SELAB])  
 Herbert Wertheim School of Optometry & Vision Science  
 University of California, Berkeley, USA.
+
 
 
 
@@ -59,3 +60,4 @@ SOFTWARE.
    [MATLAB R2022b]: <https://www.mathworks.com/products/matlab.html>
    [Fiji]: <https://imagej.net/software/fiji/>
    [OCT Explorer 3.8.0]: <https://iibi.uiowa.edu/oct-reference>
+   [SELAB]: <https://selab.berkeley.edu/>
