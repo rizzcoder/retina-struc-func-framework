@@ -15,6 +15,17 @@ benjamin.smith@berkeley.edu
 Susana T. L. Chung, OD, PhD
 s.chung@berkeley.edu
 
+## Features
+
+- 2 modes: Automatic and Manual
+- Registration Quality: Multi-tiered and self-assessing automatic approach
+- Automatic OCT B-scan overlay accounting for eye movements
+- Overlapping OCT B-scans highlighted
+- Microperimetry-style color-coded sensitivity map overlay
+- User-editable Excel sheet: MAIA Test Point ID, MAIA Test Point Threshold (dB), Closest B-scan, Location of the MAIA Test Point ID from the start of the closest B-scan (pixels) and thickness of 10 retinal layers (μm)
+
+## Installation
+
 ## License
 MIT License
 
