@@ -2,9 +2,9 @@
 
 ## Authors  
 
-Rijul S. Soans, PhD (rijul.soans@berkeley.edu)  
-Benajmin E. Smith, PhD (benjamin.smith@berkeley.edu)  
-Susana T. L. Chung, OD, PhD (s.chung@berkeley.edu)  
+Rijul S. Soans, PhD  
+Benjamin E. Smith, PhD  
+Susana T. L. Chung, OD, PhD  
 
 Sight Enhancement Laboratory ([SELAB])  
 Herbert Wertheim School of Optometry & Vision Science  
@@ -34,7 +34,7 @@ The framework requires the following software:
 ## License
 MIT License
 
-Copyright 2023  &copy; Rijul S. Soans (rijul.soans@berkeley.edu), &copy; Benjamin E. Smith (benjamin.smith@berkeley.edu), &copy; Susana T. L. Chung (s.chung@berkeley.edu)
+Copyright 2023  &copy; Rijul S. Soans, &copy; Benjamin E. Smith, &copy; Susana T. L. Chung  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
