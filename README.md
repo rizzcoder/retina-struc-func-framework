@@ -2,8 +2,8 @@
 Retinal Structure-Function Assessment Framework
 
 By:
-Sight Enhancement Laboratory (SELAB)
-Herbert Wertheim School of Optometry & Vision Science
+Sight Enhancement Laboratory (SELAB)  
+Herbert Wertheim School of Optometry & Vision Science  
 University of California, Berkeley, USA.
 
 Rijul S. Soans, PhD
@@ -25,6 +25,7 @@ s.chung@berkeley.edu
 - User-editable Excel sheet: MAIA Test Point ID, MAIA Test Point Threshold (dB), Closest B-scan, Location of the MAIA Test Point ID from the start of the closest B-scan (pixels) and thickness of 10 retinal layers (μm)
 
 ## Installation
+This framework requires the following software:
 
 ## License
 MIT License
