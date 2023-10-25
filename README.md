@@ -22,13 +22,19 @@ University of California, Berkeley, USA.
 - Microperimetry-style color-coded sensitivity map overlay
 - User-editable Excel sheet: MAIA Test Point ID, MAIA Test Point Threshold (dB), Closest B-scan, Location of the MAIA Test Point ID from the start of the closest B-scan (pixels) and thickness of 10 retinal layers (μm)
 
-## Installation
+## Software Dependencies
 
 The framework requires the following software:
 
 - [MATLAB R2022b] - Programming & Numeric Computing platform
 - [Fiji] - Open-source image processing package
-- [OCT Explorer 3.8.0] - Open-source software for OCT image segmentation.
+- [OCT Explorer 3.8.0] - Open-source software for OCT image segmentation
+
+## Installation  
+
+1. Install MATLAB from the link provided above.
+2. Install FIJI/ImageJ 1.54d from the link provided above.
+3. Configure FIJI to work with MATLAB by following the steps here - [MIJ]
 
 
 ## License
@@ -61,3 +67,4 @@ SOFTWARE.
    [Fiji]: <https://imagej.net/software/fiji/>
    [OCT Explorer 3.8.0]: <https://iibi.uiowa.edu/oct-reference>
    [SELAB]: <https://selab.berkeley.edu/>
+   [MIJ]: <https://www.mathworks.com/matlabcentral/fileexchange/47545-mij-running-imagej-and-fiji-within-matlab>
