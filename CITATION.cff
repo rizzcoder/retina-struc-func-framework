@@ -1,0 +1,36 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Retinal Structure-Function Assessment Framework
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Rijul S.
+    family-names: Soans
+    name-suffix: PhD
+    affiliation: 'University of California, Berkeley, USA'
+    orcid: 'https://orcid.org/0000-0002-7338-6210'
+  - given-names: Benjamin E.
+    family-names: Smith
+    name-suffix: PhD
+    affiliation: 'University of California, Berkeley, USA'
+  - given-names: Susana T.L.
+    family-names: Chung
+    name-suffix: 'OD, PhD'
+    affiliation: 'University of California, Berkeley, USA'
+keywords:
+  - 'Albinism '
+  - 'Amblyopia '
+  - Elastic registration
+  - Image registration
+  - Macula
+  - Microperimetry
+  - Object tracking
+  - Optical coherence tomography
+  - Particle tracking
+  - Retina
+  - 'SIFT '
+license: MIT
