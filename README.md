@@ -34,7 +34,7 @@ The framework requires the following software:
 
 1. Install MATLAB from the link provided above.
 2. Install FIJI/ImageJ 1.54d from the link provided above.
-3. Configure FIJI to work with MATLAB by following the steps here - [MIJ]
+3. Configure FIJI to work with MATLAB by adding it to the MATLAB path. Eg. If FIJI was installed on the Desktop, then add the following to the MATLAB path: C:\Users\RS\Desktop\fiji-win64\Fiji.app\scripts
 
 
 ## License
@@ -67,4 +67,3 @@ SOFTWARE.
    [Fiji]: <https://imagej.net/software/fiji/>
    [OCT Explorer 3.8.0]: <https://iibi.uiowa.edu/oct-reference>
    [SELAB]: <https://selab.berkeley.edu/>
-   [MIJ]: <https://www.mathworks.com/matlabcentral/fileexchange/47545-mij-running-imagej-and-fiji-within-matlab>
