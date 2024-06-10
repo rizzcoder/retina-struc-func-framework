@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grid_center>
+    <version>4.0.0</version>
+    <executable>
+        <name>OCTLayerSeg</name>
+        <version>3.8.0</version>
+        <date>10/21/2016</date>
+        <configuration>NA</configuration>
+        <authors>Kyungmoo Lee, Honghai Zhang, Michael D. Abramoff, Andreas Wahle, Mona K. Garvin, Milan Sonka</authors>
+        <institute>Retinal Image Analysis Laboratory, The University of Iowa</institute>
+        <comment>For investigational use only, not FDA approved</comment>
+    </executable>
+    <modification>
+        <date>12/19/2022</date>
+        <time>14:10:57</time>
+        <modifier>NA</modifier>
+        <approval>N</approval>
+    </modification>
+    <scan_characteristics>
+        <manufacturer>MetaImage</manufacturer>
+        <size>
+            <unit>voxel</unit>
+            <x>512</x>
+            <y>496</y>
+            <z>25</z>
+        </size>
+        <voxel_size>
+            <unit>mm</unit>
+            <x>0.011700</x>
+            <y>0.003900</y>
+            <z>0.123000</z>
+        </voxel_size>
+        <laterality>NA</laterality>
+        <center_type>macula</center_type>
+    </scan_characteristics>
+    <unit>pixel</unit>
+    <center>
+        <x>233</x>
+        <z>10</z>
+    </center>
+</grid_center>
