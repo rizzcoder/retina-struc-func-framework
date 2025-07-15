@@ -8,6 +8,6 @@ Offset = 0 0 0
 CenterOfRotation = 0 0 0
 AnatomicalOrientation = RAI
 ElementSpacing = 0.0117 0.0039 0.123
-DimSize = 512 496 25
+DimSize = 512 496 49
 ElementType = MET_UCHAR
 ElementDataFile = bscans_Sequence_OCT_Iowa.raw
