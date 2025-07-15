@@ -10,7 +10,10 @@ Sight Enhancement Laboratory ([SELAB])
 Herbert Wertheim School of Optometry & Vision Science  
 University of California, Berkeley, USA.
 
+## Publication
 
+**Soans, R. S.**, Smith, B. E., & Chung, S. T. L. (2025). *Unifying Structure and Function Towards a Comprehensive Macular Evaluation in Eye Disorders: A Multi-Modal Approach Using Microperimetry and Optical Coherence Tomography*. IEEE Transactions on Biomedical Engineering, **72**(5), 1572–1584.  
+🔗 https://doi.org/10.1109/TBME.2024.3513234
 
 
 ## Features

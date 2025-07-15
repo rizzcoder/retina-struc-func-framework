@@ -33,3 +33,40 @@ keywords:
   - Retina
   - 'SIFT '
 license: MIT
+
+preferred-citation:
+  type: article
+  title: "Unifying Structure and Function Towards a Comprehensive Macular Evaluation in Eye Disorders: A Multi-Modal Approach Using Microperimetry and Optical Coherence Tomography"
+  authors:
+    - family-names: Soans
+      given-names: Rijul Saurabh
+    - family-names: Smith
+      given-names: Benjamin E.
+    - family-names: Chung
+      given-names: Susana T. L.
+  journal: "IEEE Transactions on Biomedical Engineering"
+  year: 2025
+  volume: 72
+  issue: 5
+  pages: 1572-1584
+  doi: 10.1109/TBME.2024.3513234
+  keywords:
+    - Retina
+    - Manuals
+    - Visualization
+    - Image resolution
+    - Optical distortion
+    - Surgery
+    - Sensitivity
+    - Optical imaging
+    - Software
+    - Performance evaluation
+    - Elastic registration
+    - image registration
+    - macula
+    - microperimetry
+    - object tracking
+    - optical coherence tomography
+    - particle tracking
+    - retina
+    - SIFT
